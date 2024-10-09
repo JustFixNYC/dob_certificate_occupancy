@@ -17,6 +17,6 @@ DOB makes available a dataset of certificate of occupancy records on Open Data, 
 
 ## Data file
 
-[FOIL_2024-810-4230_COList_2000-2012.csv](/FOIL_2024-810-4230_COList_2000-2012.csv)
+[FOIL_2024-810-4230_COList_2000-2012.csv](https://justfix-data.s3.amazonaws.com/FOIL_2024-810-4230_COList_2000-2012.csv)
 
-DOB responded to the request with a file of all certificate of occupancy records from 2000-01-01 to 2012-07-11. It is available here for download, and will also be included in the [NYCDB](https://github.com/nycdb/nycdb) project along with the NYC Open Data file that covers 2012-07-12 to present.
+DOB responded to the request with a file of all certificate of occupancy records from 2000-01-01 to 2012-07-11. The file is available It is available for [download](https://justfix-data.s3.amazonaws.com/FOIL_2024-810-4230_COList_2000-2012.csv) (file is too large to host on github directly), and will also be included in the [NYCDB](https://github.com/nycdb/nycdb) project along with the NYC Open Data file that covers 2012-07-12 to present. 
